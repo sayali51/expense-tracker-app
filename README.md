@@ -145,3 +145,9 @@ This project was built using **vibe coding** — describing features in plain En
 ---
 
 <p align="center">Made with ☕ and Claude</p>
+
+
+## Author
+- Sayali Kale
+- A computer science student interested in web development
+- LinkedIn: www.linkedin.com/in/sayali-kale-42001a2b1
